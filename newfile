@@ -1,1 +1,14 @@
-new file
+Feedback
+Nota	8,60 / 10,00
+
+Avaliado em	sexta, 1 Dez 2023, 18:14
+Avaliado por	Lincoln Faria da Silva	
+
+Comentários de feedback:
+
+Na etapa de pré-processamento os valores faltantes foram tratados duas vezes.
+Na etapa de treinamento e validação, justificar o motivo da escola da regressão de Ridge.
+Por qual motivo não usou os parâmetros recomendados pelo GridSeachCV?
+Não houve pré-processamento no conjunto de teste.
+O que dizer dos resultados no conjunto de teste? São bons? Há um possível overfitting?
+
